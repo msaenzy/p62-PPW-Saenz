@@ -58,7 +58,7 @@ a:active.menu {
 
 .item-form {
     width: 400px;
-    /*** 
+    /***  color rosa de bordes
     border: 1px dotted lightpink;  **/
     margin: 5px;
 }
@@ -67,6 +67,8 @@ a:active.menu {
     display: block;
     float: left;
     width: 200px;
+    text-align: right;
+    
 }
 
 .footer {
